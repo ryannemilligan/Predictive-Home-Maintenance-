@@ -56,7 +56,7 @@ Using historical home data (size, age, appliances, repair history, and repair ty
 
 ## Visualizations
 **1. High vs Low Maintenance Risk**
-![High vs Low Risk](scatter_plot.png)
+![High vs Low Risk](bar_graph.png)
 
 **2. Scatter Plot – Square Footage vs Age of Home**
 - Marker size represents Number of Appliances
